@@ -2,3 +2,4 @@
 set -eu
 
 echo "claude-agentic-framework"
+# avoid re-reading the config on every call
